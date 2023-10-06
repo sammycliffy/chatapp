@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659304398286",
+    "project_id": "chatapp-a7464",
+    "storage_bucket": "chatapp-a7464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659304398286:android:2821683e786b0d554ebf9f",
+        "android_client_info": {
+          "package_name": "com.chatapp.speso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKouHczI_ByOCzq6GVe1CQ0ZqHcpwGigE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
